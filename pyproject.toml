@@ -1,6 +1,6 @@
 [project]
 name = "dns_json"
-version = "0.0.2"
+version = "0.0.3"
 description = "DNS over HTTPS with JSON Format"
 authors = [
     {name = "Michael Brux"}
